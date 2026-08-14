@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rithesh Jaston D’Sa
 
 ## 💫 About Me
-Software Engineer with **1.9 years of experience** in designing, developing, and deploying scalable **full-stack applications**.  
-Strong expertise in **Python, FastAPI, .NET, React, Docker, AWS**, and **event-driven architectures**.  
+Software Engineer with **2.5 years of experience** in designing, developing, and deploying scalable **full-stack applications**.  
+Strong expertise in **Python, FastAPI, .NET, React, Docker, AWS, Azure**, and **event-driven architectures**.  
 Proven ability to optimize workflows, improve system performance, and deliver reliable solutions using **clean, maintainable code**.  
 Experienced in **Agile environments**, **CI/CD pipelines**, and cross-functional collaboration.
 
