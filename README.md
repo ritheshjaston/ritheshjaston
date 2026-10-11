@@ -8,7 +8,7 @@ Experienced in **Agile environments**, **CI/CD pipelines**, and cross-functional
 
 📍 Mangalore, India  
 📧 ritheshjaston22@gmail.com  
-🌐 https://ritheshjaston.netlify.app  
+🌐 https://jaston.in
 
 ---
 
